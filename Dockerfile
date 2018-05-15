@@ -1,4 +1,4 @@
-FROM docker.jcg.re/base-alpine
+FROM docker.io/matrixdotorg/base-alpine
 
 
 ENV GOPATH=/gopath 
