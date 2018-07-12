@@ -1,5 +1,5 @@
-FROM docker.io/matrixdotorg/base-alpine
-
+FROM docker.io/alpine:3.8
+LABEL maintainer="Jan Christian Grünhage <jcgruenhage@matrix.org>"
 
 ENV GOPATH=/gopath 
 
