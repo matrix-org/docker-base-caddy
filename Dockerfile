@@ -1,4 +1,4 @@
-FROM docker.io/alpine:3.8
+FROM docker.io/alpine:3.10
 LABEL maintainer="Jan Christian Grünhage <jcgruenhage@matrix.org>"
 
 ENV GOPATH=/gopath 
